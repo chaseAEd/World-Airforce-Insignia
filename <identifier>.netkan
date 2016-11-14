@@ -1,0 +1,10 @@
+{
+    "spec_version" : 1,
+    "identifier"   : "World-Airforce-Insignia",
+    "$kref"        : "#/ckan/github/chaseAEd/World-Airforce-Insignia",
+    "license"      : "CC-BY-4.0",
+    "ksp_version"  : "1.0.2",
+    "resources": {
+        "homepage": "<url>"
+    }
+}
